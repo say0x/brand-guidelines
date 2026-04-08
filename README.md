@@ -1,4 +1,4 @@
-# Brand-Guidelines
+# brand-guidelines
 
 Kurze, prägnante Beschreibung des Projekts.  
 Was ist es und welchen Zweck erfüllt es?
