@@ -70,8 +70,8 @@ Beschreiben Sie hier die grundlegende Idee und den Ansatz des Projekts.
 
 ```bash
 project/
-│── assets/        # Logos, Bilder, Icons
+│── dateien/        # Logos, Bilder, Icons
 │── styles/        # Farbdefinitionen, Typografie
-│── templates/     # Layout-Vorlagen
-│── docs/          # Dokumentation
+│── vorlagen/     # Layout-Vorlagen
+│── dokumentation/          # Dokumentation
 │── README.md
